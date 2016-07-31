@@ -6,9 +6,9 @@ color:
   saturation: 0.1576528458390385
   rhythmicContrast: 0.3720936314202845
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: fogfarm
