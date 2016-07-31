@@ -1,0 +1,14 @@
+layout_spectrum: 0.7265254913363606
+typography_spectrum: 0.27842560107819736
+color:
+  brandStrength: 0.9658131685573608
+  lightness: 0.5417047245427966
+  saturation: 0.1576528458390385
+  rhythmicContrast: 0.3720936314202845
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: fogfarm
